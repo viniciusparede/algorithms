@@ -1,1 +1,3 @@
-# algorithms
+# Algorithms
+
+The Algorithms repository is dedicated to the study and analysis of algorithmic results. This repository serves as a collection of algorithms, along with utilities to evaluate their performance and compare their execution times. The main goal of this project is to provide a valuable resource for students, researchers, and enthusiasts interested in algorithm analysis and performance evaluation.
